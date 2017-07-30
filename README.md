@@ -1,1 +1,2 @@
 # checkers
+using Q-learning
